@@ -1,0 +1,16 @@
+# Personal blocklist of distractions while working
+
+twitter.com
+m.twitter.com
+t.co
+reddit.com
+gateway.reddit.com
+gql.reddit.com
+www.reddit.com
+redditmedia.com
+redditstatic.com
+discord.com
+youtube.com
+www.youtube.com
+netflix.com
+https://myflixerz.to/
